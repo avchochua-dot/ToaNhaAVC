@@ -1,0 +1,18 @@
+TRỤ SỞ A VƯƠNG – V06
+Mở Tru_so_A_Vuong_3D_V06.html bằng Chrome hoặc Edge. Không cần mạng.
+
+ĐÃ SỬA
+- Bỏ hàng xe sai ở cốt +2,85; bố trí 11 ô ngoài trời trên sân trệt, 6 + 5.
+- Bỏ cầu dẫn dài xuyên sân; đưa chiếu sảnh và bậc tiếp cận về sát nhà.
+- Tách phần cảnh quan che ramp khỏi sân đỗ; giữ các cốt +2,85 / +2,20 / +1,45.
+- Bổ sung bản vẽ 1004, 1005, 1006, 1007, 1008, 1009 ngay trong file.
+- Giữ các chức năng kiến trúc, kết cấu, cốt thép và xe chạy của V05.
+
+KIỂM TRA
+Mở “Lối vào & ramp hầm” → “Cận cảnh lối vào” / “Mặt bằng tiếp cận”.
+Mở “Đối chiếu kiến trúc V06” để xem căn cứ và kiểm tra bản sửa.
+Tắt “Hiện sàn cảnh quan che ramp” để nhìn xuống đường xe.
+“Xe & bãi đỗ” → “Xem hầm mở mái” để xem chuyển động xe.
+
+CÒN SƠ BỘ
+Số bậc từ sân lên sảnh chưa xác nhận bằng chi tiết riêng; một số tọa độ chuyển tiếp sàn che ramp, độ dốc đến phễu thu, hình học mái đón và từng mã kính cần tiếp tục đối chiếu. Số chỗ hầm và quỹ đạo xe chạy là mô phỏng theo vùng, không phải kết quả kiểm tra quỹ đạo xe thiết kế. Cốt thép toàn nhà kế thừa bản mô phỏng trước, chưa xác nhận đầy đủ từng thanh.

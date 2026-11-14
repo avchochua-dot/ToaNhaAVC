@@ -1,0 +1,23 @@
+TRỤ SỞ A VƯƠNG – V06 – BẢN TÁCH FILE CHO GITHUB
+
+CẤU TRÚC
+index.html       Trang khởi động
+css/style.css    Giao diện
+js/              Mã 3D và dữ liệu danh mục bản vẽ
+images/          Ảnh bản vẽ nguyên chất lượng; không còn nhúng trong HTML
+.nojekyll        Tệp cấu hình phục vụ web tĩnh
+
+CÁCH ĐƯA LÊN REPOSITORY
+1. Giải nén gói ZIP này trên máy tính.
+2. Đưa index.html cùng các thư mục css, js, images lên cùng cấp ở thư mục gốc của repository.
+3. Giữ nguyên tên thư mục và tên file. Không chỉ tải riêng index.html.
+4. Nếu đang dùng GitHub Pages ở thư mục khác, đưa toàn bộ các thành phần trên vào cùng thư mục đang phục vụ trang.
+5. Mở lại trang và tải lại để trình duyệt nhận bản mới.
+
+Không tải nguyên file ZIP lên để chạy web. Phải giải nén rồi tải các file và thư mục bên trong.
+Có thể mở index.html trực tiếp trên máy, miễn là giữ đủ các thư mục đi kèm.
+Các đường dẫn là tương đối nên dùng được khi repository nằm dưới một đường dẫn con.
+
+PHẠM VI
+Đây là bản tách file của V06, giữ nguyên logic mô hình và tương tác.
+Chưa bổ sung hay thay đổi hình học kiến trúc trong lần đóng gói này.
